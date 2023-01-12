@@ -22,9 +22,16 @@ h3{
 .bottom-cloud{
   position: absolute;
 }
+
 .pro
 {
   text-decoration: underline;
+}
+.profile{
+  background-color: #DBE2EF;
+}
+.skills{
+  background-color: #3F72AF;
 }
 
 .top-cloud{
@@ -36,7 +43,7 @@ h3{
 
 .top-container{
   padding-top: 100px;
-  background-color: #393E46;
+  background-color: #F9F7F7;
   position: relative;
   
 }

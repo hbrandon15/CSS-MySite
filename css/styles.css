@@ -22,7 +22,7 @@ h2{
 
 }
 h3{
-  color: #3F72AF;
+  color: #DBE2EF;
 
 }
 
@@ -31,8 +31,9 @@ h3{
   position: absolute;
 }
 .c-sharp-img{
-  width: 100px;
-  height: 100px;
+  width: 25%;
+  float: left;
+  padding-right: 30px;
 }
 .footer-link{
   color:#3F72AF;
@@ -52,6 +53,14 @@ h3{
 .skills{
   background-color: #3F72AF;
   color: #DBE2EF;
+  
+}
+.skill-row{
+  width: 50%;
+  margin: 50px auto 50px auto;
+  text-align: left;
+  line-height: 2;
+
 }
 
 .top-cloud{
@@ -67,7 +76,8 @@ h3{
   position: relative;
   
 }
-.web-dev{
-  width: 100px;
-  height: 100px;
+.web-dev-img{
+  width: 25%;
+  float: right;
+  padding-left: 30px;
 }

@@ -3,6 +3,7 @@ body{
   background-color: white;
   text-align: center;
   font-family: 'Playfair Display', serif;
+  margin: 0px;
 }
 
 h1{
@@ -11,6 +12,7 @@ h1{
   font-family: 'Nothing You Could Do', cursive;
   color: #112D4E;
   line-height: 2;
+  padding: 10px 0 10px 0;
 
   
 }
@@ -19,11 +21,16 @@ h2{
   font-size: 2.5rem;
   color: #112D4E;
   font-weight: normal;
+  padding: 10px 0 10px 0;
 
 }
 h3{
-  color: #DBE2EF;
+  color: #3F72AF;
+  padding: 10px 0 10px 0;
 
+}
+hr{
+  
 }
 
 
@@ -46,13 +53,16 @@ h3{
 .profile{
   background-color: #DBE2EF;
 }
-.profile-gif{
-  width: 100px;
-  height: 100px;
+.profile-pic{
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+  margin-top: 10px;
 }
 .skills{
-  background-color: #3F72AF;
-  color: #DBE2EF;
+  background-color: #DBE2EF;
+  color: #112D4E;
+  padding-bottom: 10px;
   
 }
 .skill-row{

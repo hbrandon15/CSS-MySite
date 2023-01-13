@@ -9,14 +9,18 @@ h1{
   margin: 150px auto 0 auto;
   font-size: 5.625rem;
   font-family: 'Nothing You Could Do', cursive;
+  color: #112D4E;
+
   
 }
 h2{
   font-family: 'Montserrat', serif;
   font-size: 2.5rem;
+  color: #112D4E;
 
 }
 h3{
+  color: #3F72AF;
 
 }
 
@@ -27,6 +31,9 @@ h3{
 .c-sharp-img{
   width: 100px;
   height: 100px;
+}
+.footer-link{
+  color:#3F72AF;
 }
 
 .pro

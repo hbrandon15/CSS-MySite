@@ -30,6 +30,10 @@ h3{
 .profile{
   background-color: #DBE2EF;
 }
+.profile-gif{
+  width: 100px;
+  height: 100px;
+}
 .skills{
   background-color: #3F72AF;
 }

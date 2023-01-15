@@ -37,6 +37,10 @@ hr{
   width: 2%;
 }
 
+p{
+  margin: 30px 0px 30px 0px;
+}
+
 
 .bottom-cloud{
   position: absolute;

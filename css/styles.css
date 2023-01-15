@@ -30,6 +30,13 @@ h3{
 
 }
 hr{
+  border: none;
+  border-style: dotted;
+  border-top: 5px;
+  text-align: center;
+  height: 5px;
+  width: 10%;
+ 
   
 }
 
@@ -46,6 +53,10 @@ hr{
   color:#3F72AF;
 }
 
+.middle-container{
+  background-color:#DBE2EF ;
+}
+
 .pro
 {
   text-decoration: underline;
@@ -57,7 +68,7 @@ hr{
   width: 200px;
   height: 200px;
   border-radius: 100%;
-  margin-top: 10px;
+  margin-top: 50px;
 }
 .skills{
   background-color: #DBE2EF;

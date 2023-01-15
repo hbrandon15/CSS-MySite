@@ -62,7 +62,7 @@ p{
   -webkit-border-radius: 28;
   -moz-border-radius: 28;
   border-radius: 28px;
-  font-family: Courier New;
+  font-family: 'Montserrat', serif;
   color: #ffffff;
   font-size: 20px;
   padding: 10px 20px 10px 20px;
@@ -77,6 +77,10 @@ p{
   background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
   background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
   text-decoration: none;
+}
+.contact-description{
+  width: 40%;
+  margin: 20px auto 60px;
 }
 .contact-me{
   padding-bottom: 60px;

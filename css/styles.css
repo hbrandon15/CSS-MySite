@@ -30,14 +30,11 @@ h3{
 
 }
 hr{
-  border: none;
-  border-style: dotted;
-  border-top: 5px;
+  border-style: dotted none none;
+  border-width: 5px;
+  color: #112D4E;
   text-align: center;
-  height: 5px;
-  width: 10%;
- 
-  
+  width: 2%;
 }
 
 

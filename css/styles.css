@@ -45,6 +45,16 @@ p{
 .bottom-cloud{
   position: absolute;
 }
+.bottom-container{
+  background-color: #112D4E;
+  padding: 40px 0px 40px 0px; 
+}
+.brandon-copyright{
+  color: white;
+}
+.contact-me{
+  padding-bottom: 60px;
+}
 .c-sharp-img{
   width: 25%;
   float: left;
@@ -52,6 +62,7 @@ p{
 }
 .footer-link{
   color:#3F72AF;
+  padding-top: 50px;
 }
 
 .middle-container{

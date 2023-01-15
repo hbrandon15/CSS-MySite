@@ -1,4 +1,5 @@
 /**********classes**********/
+
 body{
   background-color: white;
   text-align: center;
@@ -85,14 +86,23 @@ p{
 .contact-me{
   padding-bottom: 60px;
 }
+.copyright{
+  
+}
 .c-sharp-img{
   width: 25%;
   float: left;
   padding-right: 30px;
 }
 .footer-link{
-  color:#3F72AF;
+  color:#DBE2EF;
+  font-family: 'Monterrat', sans-serif;
   padding-top: 50px;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+.footer-link:hover{
+  color: #3cb0fd;
 }
 
 .middle-container{

@@ -2,25 +2,26 @@
 
 body{
   background-color: white;
-  text-align: center;
   font-family: 'Playfair Display', serif;
   margin: 0px;
+  text-align: center;
+ 
 }
 
 h1{
-  margin: 150px auto 0 auto;
+  color: #112D4E;
   font-size: 5.625rem;
   font-family: 'Nothing You Could Do', cursive;
-  color: #112D4E;
   line-height: 2;
+  margin: 150px auto 0 auto;
   padding: 10px 0 10px 0;
 
   
 }
 h2{
+  color: #112D4E;
   font-family: 'Montserrat', serif;
   font-size: 2.5rem;
-  color: #112D4E;
   font-weight: normal;
   padding: 10px 0 10px 0;
 
@@ -82,16 +83,16 @@ p{
   text-decoration: none;
 }
 .contact-description{
-  width: 40%;
   margin: 20px auto 60px;
+  width: 40%;
 }
 .contact-me{
   padding-bottom: 60px;
 }
 .c-sharp-img{
-  width: 25%;
   float: left;
   padding-right: 30px;
+  width: 25%;
 }
 .footer-link{
   color:#DBE2EF;

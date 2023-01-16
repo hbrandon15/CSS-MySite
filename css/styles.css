@@ -48,10 +48,12 @@ p{
 }
 .bottom-container{
   background-color: #112D4E;
-  padding: 40px 0px 40px 0px; 
+  padding: 40px 0px; 
 }
 .brandon-copyright{
-  color: white;
+  color: #F9F7F7;
+  font-size: 0.75rem ;
+  padding-top: 60px;
 }
 .btn {
   background: #3498db;
@@ -64,7 +66,7 @@ p{
   -moz-border-radius: 28;
   border-radius: 28px;
   font-family: 'Montserrat', serif;
-  color: #ffffff;
+  color: #F9F7F7;
   font-size: 20px;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
@@ -85,9 +87,6 @@ p{
 }
 .contact-me{
   padding-bottom: 60px;
-}
-.copyright{
-  
 }
 .c-sharp-img{
   width: 25%;
